@@ -46,7 +46,7 @@ main {
   
 }
 a {
-  list-style: none;
+  
   text-decoration: none;
   color: #5b5c76;
   display: inline-block;
@@ -55,6 +55,9 @@ a {
   width: 100px;
   font-size: 23px;
   font-weight: bold;
+}
+li{
+  list-style: none;
 }
 .CS{
   font-size: 15px;
