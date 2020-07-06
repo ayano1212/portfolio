@@ -189,7 +189,10 @@ ul{
   margin-bottom: 20px;
 
 }
-
+.graduation{
+  color: blue;
+  font-size: 13px;
+}
 /*contactページ*/
 
 .contact-item {
